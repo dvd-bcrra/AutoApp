@@ -1,5 +1,5 @@
 <h1>AutoApp</h1>
 <b>Autor: </b>Becerra
 <ul>
-  <li b>Paso 1: </b> <i> Clasificacion de las estructuras de datos</i>
-  <li b>Paso 2: </b> <i> Tipos de datos abstractos</i>
+  <li b>Paso 1: </b> <i> Añadir el proyecto al entorno integrado</i>
+  <li b>Paso 2: </b> <i> Configurar las ubicaciones de las librerias (todas dentro de la carpeta principal)</i>
